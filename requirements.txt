@@ -1,0 +1,4 @@
+requests
+tika
+selenium
+vk-api
